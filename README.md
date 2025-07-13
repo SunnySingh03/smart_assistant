@@ -40,7 +40,7 @@ This project is ideal for:
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/<your-username>/smart_assistant.git
+git clone https://github.com/SunnySingh03/smart_assistant.git
 cd smart_assistant
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
